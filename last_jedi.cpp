@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
   
-  std::vector<std::string> last_jedi;
+  vector<string> last_jedi;
   
   // Add characters here:
   last_jedi.push_back("kylo");
