@@ -2,7 +2,7 @@
 using namespace std;
 
 // Define is_palindrome() here:
-bool is_palindrome(std::string text) {
+bool is_palindrome(string text) {
   
   string reversed_text = "";
   
